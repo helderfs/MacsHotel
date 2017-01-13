@@ -1,8 +1,2 @@
 # MacsHotel
-Hotel WebSite
-zsfdas
-fas
-dsa
-sdaf
-sdafsda
-sdafs
+anitapan.com.br
