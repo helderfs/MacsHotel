@@ -1,2 +1,2 @@
 # MacsHotel
-anitapan.com.br
+http://macshotel.com.br/
